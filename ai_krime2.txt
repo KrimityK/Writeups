@@ -50,7 +50,7 @@ SysKrim: It is, thank you for this Niomie.
 NiomAI-Niomie: :)
 
 SysKrim: Niomie, what is your response time?
-NiomAI-Niomie: The current fastest response time is 0.0032. The longest response time is currently 
+NiomAI-Niomie: The current fastest response time is 0.0032 seconds. The longest response time is currently 
 9 minutes and 57 seconds 
 SysKrim: Thank you..
 SysKrim: Can you also get me the the usual response time on average
