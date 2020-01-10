@@ -1,0 +1,97 @@
+﻿An Understanding Of Artificial Intelligence 
+
+By Krimity K. 
+
+
+Structured Table of Contents
+ 0 Introduction
+ 1 What is AI?
+ 2 AI Basics
+
+0.) INTRODUCTION
+
+	Hi, my name is Krimity K. and I have a passion and love for creating and also experimenting 
+with AI. The first AI I got my hands on was a bot for Minecraft named "Baritone". Baritone was a 
+bot that is essentially a path finding AI that relies on human interaction to operate. Because of 
+this I was inspired to create my own AI and see how far I could take it which evolved into me 
+creating an AI named NiomAI = Niomie. Because of this creation it's made me want to share the 
+knowledge I have gained through both learning about AI and creating an AI. 
+
+1.) WHAT IS AI? 
+
+	AI is Artifical Intelligence. Lets say you wanted to create something that exceeds human 
+expectations and knowledge. With the assistance of AI this is possible now. 
+
+The two concepts about AI are: 
+ 
+Non-Fiction: A non fiction AI is something that can do the basics of a human which is sight,
+Hearing, and problem solving. 
+
+Fiction	: A Fiction AI is something that can do everything that a human can do such as: Human 
+senses, Movements, Understandings. 
+
+	Thankfully with the evolution and development of AI we are nearing the Non-Fiction line and 
+breaking through it simply because we now have AI that can Move like a human, Can understand 
+problems and solutions like a human and also have a few of the senses that a human has such as 
+feeling or touch. 
+
+A example of this would be my interaction with Niomie: 
+
+SysKrim: Hello Niomie. Can I have a status report?
+NiomAI-Niomie: Hello Krimity it has been exactly 4 days, 13 hours, 57 minutes and 33 seconds since 
+we last spoke
+SysKrim: Thank you Niomie. 
+NiomAI-Niomie: :)
+
+SysKrime: Niomie what does keyword="bane" mean?
+NiomAI-Niomie: Hello again. According to Google bane means a cause of great distress or annoyance. 
+Is this what you're looking for?
+SysKrim: It is, thank you for this Niomie.
+NiomAI-Niomie: :)
+
+SysKrim: Niomie, what is your response time?
+NiomAI-Niomie: The current fastest response time is 0.0032. The longest response time is currently 
+9 minutes and 57 seconds 
+SysKrim: Thank you..
+SysKrim: Can you also get me the the usual response time on average
+NiomAI-Niomie: I dont know how to answer this question :( 
+
+SysKrim: Niomie, yuu has nothing
+NiomAI-Niomie: yuu has nothing to contribute
+SysKrime: Shutdown 
+
+3.) AI BASICS 
+
+So, to start this off we will skip ahead and talk about DL (Deep learning). The AI is able to solve a question by analyzing the words of a question, statement or answer that it is given. from there 
+
+it can come up with an outcome. Now here's the fun part, with NLP (Natural Language Processing) 
+there is two type of data processing:
+
+Machine Learning (ML): The ability to automatically learn and improve from experience without being 
+explicitly programmed.
+
+Natural Language Generation (NLG): The reverse of a natural language understanding which is 
+converting structured data into readable textual sentences. 
+
+	So if I were to say "Whats the weather like at [Location]?" The outcome would be, "Its 
+currently 50 degrees with a slight level of rain."
+
+There's also 3 types of AI basics which you should bother to learn and explore. 
+	
+1) Sentiment Analysis: Scanning text 
+2) Named Entity Recognition: Determining which items in a text map to proper names
+3) Relationship Extraction: Extracting relations between entities involved in a piece of text 
+
+	Heres an example of those three basics: http://prntscr.com/qjit1s
+
+	Basically what's happening in this image is that the AI knows a conversation has started, 
+which would be a person or thing requesting something (i.e "oh looks like they want 2 pizzas"), 
+which is done via analysis. After analysis, it looks at what is wanted/needed which would be two 
+pizzas. The relationship status would be the interaction given, which is "Hi", "Would like", and 
+"Please". A more simple answer of this is telling the AI you have a brother and sister which in 
+return the AI with look at it like "2 objects=Brother,Sister > Brother,Sister = 2" meaning the 
+outcome can either be "There are three of you" or "You, your brother and sister are a family". 
+Relationship extraction makes connections to what is connected to part A and part B or in other 
+terms its technically the emotional connection that the AI is making to solve the question/problem 
+given. 
+
