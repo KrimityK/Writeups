@@ -62,9 +62,10 @@ SysKrime: Shutdown
 
 3.) AI BASICS 
 
-So, to start this off we will skip ahead and talk about DL (Deep learning). The AI is able to solve a question by analyzing the words of a question, statement or answer that it is given. from there 
+So, to start this off we will skip ahead and talk about DL (Deep learning). The AI is able to solve a question by 
+analyzing the words of a question, statement or answer that it is given. 
 
-it can come up with an outcome. Now here's the fun part, with NLP (Natural Language Processing) 
+from there it can come up with an outcome. Now here's the fun part, with NLP (Natural Language Processing) 
 there is two type of data processing:
 
 Machine Learning (ML): The ability to automatically learn and improve from experience without being 
